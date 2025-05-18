@@ -1,0 +1,6 @@
+D:\nam_3_hoc_ky_I___ky_5___\Tri_Tue_Nhan_Tao\Do_An_Cuoi_Ky\TriTueNhanTao\DTO\bin\Debug\DTO.dll
+D:\nam_3_hoc_ky_I___ky_5___\Tri_Tue_Nhan_Tao\Do_An_Cuoi_Ky\TriTueNhanTao\DTO\bin\Debug\DTO.pdb
+D:\nam_3_hoc_ky_I___ky_5___\Tri_Tue_Nhan_Tao\Do_An_Cuoi_Ky\TriTueNhanTao\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\nam_3_hoc_ky_I___ky_5___\Tri_Tue_Nhan_Tao\Do_An_Cuoi_Ky\TriTueNhanTao\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\nam_3_hoc_ky_I___ky_5___\Tri_Tue_Nhan_Tao\Do_An_Cuoi_Ky\TriTueNhanTao\DTO\obj\Debug\DTO.dll
+D:\nam_3_hoc_ky_I___ky_5___\Tri_Tue_Nhan_Tao\Do_An_Cuoi_Ky\TriTueNhanTao\DTO\obj\Debug\DTO.pdb
